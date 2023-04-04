@@ -1,0 +1,42 @@
+Part I: Read Code Written by another Coder:
+
+
+
+PART 1:
+
+The function one() is one of Python's built-in functions. It returns the length of an object. For example, it can return the number of items in a list.
+
+
+Generate a random string of any length in Python. create a random password with lower case upper case letters digits ...
+
+
+
+PART2:
+
+
+also def function_two() is the same as the function one()  
+
+
+
+
+organize files in the given directory based on their names.
+
+
+
+the function organizes files in the given directory on the date in their filenames
+
+PART3:
+
+is_w(date): checks if the given date is a weekend day  and returns a Boolean value accordingly.
+
+is_h(date): this function checks if the given date is a holiday 
+
+generater(start_date, end_date):this fanction generates a dictionary of dates for each year between the start date and end date
+
+def main() function is defined to call the generater() function with the start and end dates
+
+the main() function is executed using asyncio's run() method.
+
+Overall, the code uses asyncio to efficiently generate a list of workdays for the year 2023 by excluding weekends and holidays.
+
+
