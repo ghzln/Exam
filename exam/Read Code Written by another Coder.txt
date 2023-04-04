@@ -37,6 +37,6 @@ def main() function is defined to call the generater() function with the start a
 
 the main() function is executed using asyncio's run() method.
 
-Overall, the code uses asyncio to efficiently generate a list of workdays for the year 2023 by excluding weekends and holidays.
+
 
 
